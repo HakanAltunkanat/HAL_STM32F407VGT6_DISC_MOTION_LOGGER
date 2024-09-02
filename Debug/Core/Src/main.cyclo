@@ -1,0 +1,12 @@
+../Core/Src/main.c:69:6:flash_write	1
+../Core/Src/main.c:77:9:flash_read	1
+../Core/Src/main.c:84:6:get_rtc_time	1
+../Core/Src/main.c:92:6:get_rtc_date	1
+../Core/Src/main.c:101:6:EXTI9_5_IRQHandler	2
+../Core/Src/main.c:121:6:HAL_UART_RxCpltCallback	9
+../Core/Src/main.c:179:5:main	3
+../Core/Src/main.c:235:6:SystemClock_Config	3
+../Core/Src/main.c:281:13:MX_RTC_Init	4
+../Core/Src/main.c:344:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:377:13:MX_GPIO_Init	1
+../Core/Src/main.c:410:6:Error_Handler	1
